@@ -12,7 +12,6 @@
 
 I'm a software engineer who is passionate about Programming💻. I'm Experienced with all stages of the development cycle for dynamic web projects and windows applications. Well-versed in numerous programming languages including C#, Python, JavaScript, SQL. I have experience in developing and implementing REST and SOAP APIs in applications. 
 
-
 ## Languages
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -27,7 +26,6 @@ I'm a software engineer who is passionate about Programming💻. I'm Experienced
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 --> 
 
-
 ## About me 
 
 :heart: Programming | :black_heart: Music | :blue_heart: Traveling 
@@ -36,16 +34,7 @@ I'm a software engineer who is passionate about Programming💻. I'm Experienced
 - 📫 How to reach me: sent me email
 - ⚡️ Fun fact: My nickname is “Druvo”
 
-
-<br>
-
-
 ![Druvos's github stats](https://github-readme-stats.vercel.app/api?username=druvo&show_icons=true&hide_border=true)
-
-
-<br>
-
-
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/Druvo100?style=social)](https://twitter.com/Druvo100)
