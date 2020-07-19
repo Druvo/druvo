@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhdruvo@gmail.com)](mailto:zhdruvo@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/druvo/)](https://github.com/druvo/)
 
-I'm a software engineer who is passionate about Programming💻. I'm Experienced with all stages of the development cycle for dynamic web projects and windows applications. Well-versed in numerous programming languages including C#, Python, JavaScript, SQL. I have experience in developing and implementing REST and SOAP APIs in applications. 
+I'm a Programmer💻. I'm Experienced with all stages of the development cycle for dynamic web projects and windows applications. Well-versed in numerous programming languages including C#, Python, JavaScript, SQL. I have experience in developing and implementing REST and SOAP APIs in applications. 
 
 ## Languages
 
@@ -29,15 +29,16 @@ I'm a software engineer who is passionate about Programming💻. I'm Experienced
 ## About me 
 
 :heart: Programming | :black_heart: Music | :blue_heart: Traveling 
-- 🔭 I’m currently working on @python
+- 🔭 I’m currently working on @WebProjects
 - 🌱 I’m currently learning @python
-- 📫 How to reach me: sent me email
-- ⚡️ Fun fact: My nickname is “Druvo”
+- ⚡️ Fun fact: My favorite ice cream flavor is chocolate
 
 ![Druvos's github stats](https://github-readme-stats.vercel.app/api?username=druvo&show_icons=true&hide_border=true)
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/Druvo100?style=social)](https://twitter.com/Druvo100)
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=druvo.druvo)
 
 
