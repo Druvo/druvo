@@ -34,11 +34,8 @@ I'm a Programmer💻. I'm Experienced with all stages of the development cycle f
 - ⚡️ Fun fact: My favorite ice cream flavor is chocolate
 
 ![Druvos's github stats](https://github-readme-stats.vercel.app/api?username=druvo&show_icons=true&hide_border=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=druvo&layout=compact)
+
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/Druvo100?style=social)](https://twitter.com/Druvo100)
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=druvo.druvo)
-
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/zh_druvo?style=social)](https://twitter.com/Druvo100)
