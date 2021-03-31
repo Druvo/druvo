@@ -36,8 +36,9 @@ Experienced in developing and implementing <a href="https://www.google.com/searc
 - ⚡️ Fun fact: I’m a huge TV programs / Web series fan
 
 ![Druvos's github stats](https://github-readme-stats.vercel.app/api?username=druvo&show_icons=true&hide_border=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=druvo&layout=compact)
-<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=druvo" alt="druvo" />
+<img style="width: 100%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=druvo" alt="druvo" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=druvo&langs_count=5)](https://github.com/druvo/github-readme-stats)
+
 
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
