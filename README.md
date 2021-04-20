@@ -60,10 +60,6 @@ def skills():
 - 💬 Ask me about anything tech related, I am happy to help
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/zhdruvo" target="_blank">LinkedIn</a>
 - ⚡️ Fun fact: I’m a huge Web series fan 
-- 
-
-
-
 
 
 
