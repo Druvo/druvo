@@ -1,4 +1,4 @@
-<a href="https://github.com/druvo"><img width="100%" height="auto" src="https://scontent.fdac5-1.fna.fbcdn.net/v/t1.6435-9/147813342_3620363141393028_1164734316374565134_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=e3f864&_nc_ohc=uSdFqk7zEikAX8z8PSD&_nc_oc=AQnLLZZ5P_eTnRaRux56CUm6DZMBD_LjrFQJXul0xW1dWPAlmuL_d2qzo2AXhTo-CaE&_nc_ht=scontent.fdac5-1.fna&oh=377ddcaf7dc3e05829caa52efd994c94&oe=60930FB6" /></a>
+<a href="https://github.com/druvo"><img width="100%" height="auto" src="img.jpg" /></a>
 
 <a href="https://www.facebook.com/zhdruvo" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Druvo100/)](https://twitter.com/Druvo100/)
