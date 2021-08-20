@@ -55,8 +55,8 @@ def skills():
 ## About me 
 
 :heart: Programming | :black_heart: Music | :blue_heart: Traveling
-- 🔭 I’m currently working on Web Projects
-- 🌱 I’m currently learning Python and Javascript (love to learn new Tech) 
+- 🔭 Currently working on Web Projects
+- 🌱 Currently learning Python and Javascript (love to learn new Tech) 
 - 💬 Ask me about anything tech related, I am happy to help
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/zhdruvo" target="_blank">LinkedIn</a>
 - ⚡️ Fun fact: I’m a huge Web series fan 
